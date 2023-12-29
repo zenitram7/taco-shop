@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Yanone Kaffeesatz;
+  font-size: large;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: 100%;
+}
